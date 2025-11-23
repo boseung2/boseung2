@@ -59,8 +59,8 @@
 
 ### 🧪 Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-F7F9FC?style=for-the-badge&logo=cplusplus&logoColor=4C8BF5"/>
   <img src="https://img.shields.io/badge/C-F7F9FC?style=for-the-badge&logo=c&logoColor=4FE3C1"/>
+  <img src="https://img.shields.io/badge/C++-F7F9FC?style=for-the-badge&logo=cplusplus&logoColor=4C8BF5"/>
   <img src="https://img.shields.io/badge/Python-F7F9FC?style=for-the-badge&logo=python&logoColor=A680FF"/>
   <img src="https://img.shields.io/badge/Java-F7F9FC?style=for-the-badge&logo=openjdk&logoColor=4C8BF5"/>
   <img src="https://img.shields.io/badge/JavaScript-F7F9FC?style=for-the-badge&logo=javascript&logoColor=4C8BF5"/>
