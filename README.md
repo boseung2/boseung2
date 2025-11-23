@@ -80,7 +80,7 @@
 
 ### 🗄 Database
 <p>
-  <img src="https://img.shields.io/badge/Oracle-F7F9FC?style=for-the-badge&logo=oracle&logoColor=A680FF"/>
+  <img src="https://img.shields.io/badge/Oracle-F7F9FC?style=for-the-badge&logo=redhat&logoColor=A680FF"/>
   <img src="https://img.shields.io/badge/MySQL-F7F9FC?style=for-the-badge&logo=mysql&logoColor=4C8BF5"/>
   <img src="https://img.shields.io/badge/MariaDB-F7F9FC?style=for-the-badge&logo=mariadb&logoColor=4FE3C1"/>
   <img src="https://img.shields.io/badge/MongoDB-F7F9FC?style=for-the-badge&logo=mongodb&logoColor=4FE3C1"/>
@@ -96,7 +96,7 @@
 ### 🖥 Environment
 <p>
   <img src="https://img.shields.io/badge/Linux-F7F9FC?style=for-the-badge&logo=linux&logoColor=4FE3C1"/>
-  <img src="https://img.shields.io/badge/AWS-F7F9FC?style=for-the-badge&logo=amazon-aws&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/AWS-F7F9FC?style=for-the-badge&logo=aws&logoColor=4C8BF5"/>
 </p>
 
 ### 🧰 Tools
