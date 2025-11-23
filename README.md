@@ -33,9 +33,6 @@
   <a href="https://solved.ac/profile/jungbs3726">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungbs3726" width="410"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://solved.ac/profile/jungbs3726">
     <img src="http://mazandi.herokuapp.com/api?handle=jungbs3726&theme=warm" width="410"/>
   </a>
