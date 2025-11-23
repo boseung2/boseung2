@@ -96,7 +96,7 @@
 ### 🖥 Environment
 <p>
   <img src="https://img.shields.io/badge/Linux-F7F9FC?style=for-the-badge&logo=linux&logoColor=4FE3C1"/>
-  <img src="https://img.shields.io/badge/AWS-F7F9FC?style=for-the-badge&logo=amazonaws&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/AWS-F7F9FC?style=for-the-badge&logo=amazon-aws&logoColor=4C8BF5"/>
 </p>
 
 ### 🧰 Tools
