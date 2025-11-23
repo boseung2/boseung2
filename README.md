@@ -32,15 +32,16 @@
 
 ## 📊 GitHub Stats (Light Theme)
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=boseung2&show_icons=true&title_color=4C8BF5&text_color=000000&icon_color=4FE3C1&bg_color=F7F9FC" 
-  height="150"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=boseung2&layout=compact&title_color=4C8BF5&text_color=000000&bg_color=F7F9FC" 
-  height="150"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=boseung2&show_icons=true&title_color=4C8BF5&text_color=000000&icon_color=4FE3C1&bg_color=F7F9FC" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=boseung2&layout=compact&title_color=4C8BF5&text_color=000000&bg_color=F7F9FC" 
+    height="150"
+  />
+</p>
 
 ---
 
