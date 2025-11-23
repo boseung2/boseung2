@@ -1,30 +1,46 @@
 <div align="center">
 
-# 👋 Hi, I'm Boseung Jung
+# 👋 Hi, I'm 보승 (BoSeung)
 
-[![Name Badge](https://img.shields.io/badge/BoSeung-Developer-blue?style=for-the-badge)](https://github.com/boseung2)
-[![GitHub](https://img.shields.io/badge/GitHub-boseung2-black?style=for-the-badge&logo=github)](https://github.com/boseung2)
-[![BOJ](https://img.shields.io/badge/BOJ-jungbs3726-brightgreen?style=for-the-badge)](https://www.acmicpc.net/user/jungbs3726)
-[![Solved.ac](https://img.shields.io/badge/Solved.ac-jungbs3726-yellow?style=for-the-badge)](https://solved.ac/profile/jungbs3726)
+<!-- Name Badge -->
+<img src="https://img.shields.io/badge/BoSeung-Developer-4C8BF5?style=for-the-badge&labelColor=0D1117&logoColor=4FE3C1"/>
+
+<!-- Links -->
+<a href="https://github.com/boseung2">
+  <img src="https://img.shields.io/badge/GitHub-boseung2-4C8BF5?style=for-the-badge&logo=github&logoColor=4FE3C1&labelColor=0D1117"/>
+</a>
+<a href="https://www.acmicpc.net/user/jungbs3726">
+  <img src="https://img.shields.io/badge/BOJ-jungbs3726-4FE3C1?style=for-the-badge&labelColor=0D1117&logoColor=A680FF"/>
+</a>
+<a href="https://solved.ac/profile/jungbs3726">
+  <img src="https://img.shields.io/badge/Solved.ac-jungbs3726-A680FF?style=for-the-badge&labelColor=0D1117&logoColor=4FE3C1"/>
+</a>
 
 ---
 
 ## 🧩 Algorithm Profile
 
 <a href="https://solved.ac/profile/jungbs3726">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungbs3726" width="400"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungbs3726" width="410"/>
 </a>
 
 <a href="https://solved.ac/profile/jungbs3726">
-  <img src="http://mazandi.herokuapp.com/api?handle=jungbs3726&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=jungbs3726&theme=warm" width="410"/>
 </a>
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=boseung2&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boseung2&layout=compact&theme=tokyonight" height="150"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=boseung2&show_icons=true&title_color=4C8BF5&text_color=FFFFFF&icon_color=4FE3C1&bg_color=0D1117" 
+  height="150"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=boseung2&layout=compact&title_color=4C8BF5&text_color=FFFFFF&bg_color=0D1117" 
+  height="150"
+/>
 
 ---
 
@@ -42,19 +58,19 @@
 
 ### Languages
 <div>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=4FE3C1"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A680FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4FE3C1"/>
 </div>
 
 ### Tools & Platforms
 <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A680FF"/>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=4FE3C1"/>
+  <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=A680FF"/>
 </div>
 
 ---
@@ -62,6 +78,6 @@
 ## 🚀 About Me
 - JBNU Computer Science & AI  
 - Robotics & LLM Enthusiast  
-- Enjoy solving problems & building products  
+- Solving problems & building what I imagine  
 
 </div>
