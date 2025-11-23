@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm 보승(BoSeung)!
+# 👋 Hi, I'm Boseung Jung
 
 [![Name Badge](https://img.shields.io/badge/BoSeung-Developer-blue?style=for-the-badge)](https://github.com/boseung2)
 [![GitHub](https://img.shields.io/badge/GitHub-boseung2-black?style=for-the-badge&logo=github)](https://github.com/boseung2)
