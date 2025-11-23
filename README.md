@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm 보승 (BoSeung)
+# 👋 Hi, I'm BoSeung Jung
 
 <!-- Name Badge -->
 <img src="https://img.shields.io/badge/BoSeung-Developer-4C8BF5?style=for-the-badge&labelColor=F7F9FC&logoColor=4FE3C1"/>
@@ -18,6 +18,13 @@
 
 ---
 
+## 🙋‍♂️ About Me
+- JBNU Computer Science & AI  
+- Robotics & LLM Enthusiast  
+- Solving problems & building what I imagine  
+
+---
+
 ## 🧩 Algorithm Profile
 
 <a href="https://solved.ac/profile/jungbs3726">
@@ -30,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats (Light Theme)
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -45,6 +52,62 @@
 
 ---
 
+## 🏆 GitHub Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=boseung2&theme=flat&no-frame=true&margin-w=10" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧪 Languages
+<div>
+  <img src="https://img.shields.io/badge/Java-F7F9FC?style=for-the-badge&logo=openjdk&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/C++-F7F9FC?style=for-the-badge&logo=cplusplus&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/C-F7F9FC?style=for-the-badge&logo=c&logoColor=4FE3C1"/>
+  <img src="https://img.shields.io/badge/Python-F7F9FC?style=for-the-badge&logo=python&logoColor=A680FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7F9FC?style=for-the-badge&logo=javascript&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/TypeScript-F7F9FC?style=for-the-badge&logo=typescript&logoColor=4FE3C1"/>
+</div>
+
+### 🎨 Frontend
+<div>
+  <img src="https://img.shields.io/badge/React-F7F9FC?style=for-the-badge&logo=react&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/Node.js-F7F9FC?style=for-the-badge&logo=node.js&logoColor=4FE3C1"/>
+</div>
+
+### 🔧 Backend
+<div>
+  <img src="https://img.shields.io/badge/NestJS-F7F9FC?style=for-the-badge&logo=nestjs&logoColor=A680FF"/>
+  <img src="https://img.shields.io/badge/Spring-F7F9FC?style=for-the-badge&logo=spring&logoColor=4FE3C1"/>
+</div>
+
+### 🗄 Databases
+<div>
+  <img src="https://img.shields.io/badge/Oracle-F7F9FC?style=for-the-badge&logo=oracle&logoColor=A680FF"/>
+  <img src="https://img.shields.io/badge/MySQL-F7F9FC?style=for-the-badge&logo=mysql&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/MariaDB-F7F9FC?style=for-the-badge&logo=mariadb&logoColor=4FE3C1"/>
+  <img src="https://img.shields.io/badge/MongoDB-F7F9FC?style=for-the-badge&logo=mongodb&logoColor=4FE3C1"/>
+</div>
+
+### 🖥 Environment
+<div>
+  <img src="https://img.shields.io/badge/Linux-F7F9FC?style=for-the-badge&logo=linux&logoColor=4FE3C1"/>
+  <img src="https://img.shields.io/badge/AWS-F7F9FC?style=for-the-badge&logo=amazonaws&logoColor=4C8BF5"/>
+</div>
+
+### 🧰 Tools
+<div>
+  <img src="https://img.shields.io/badge/Notion-F7F9FC?style=for-the-badge&logo=notion&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Slack-F7F9FC?style=for-the-badge&logo=slack&logoColor=A680FF"/>
+  <img src="https://img.shields.io/badge/GitHub-F7F9FC?style=for-the-badge&logo=github&logoColor=4C8BF5"/>
+  <img src="https://img.shields.io/badge/Git-F7F9FC?style=for-the-badge&logo=git&logoColor=A680FF"/>
+</div>
+
+---
+
 ## 🔗 Links
 
 | 플랫폼 | 링크 |
@@ -54,31 +117,5 @@
 | 🐙 GitHub | https://github.com/boseung2 |
 
 ---
-
-## 🛠️ Tech Stack
-
-### Languages
-<div>
-  <img src="https://img.shields.io/badge/C++-F7F9FC?style=for-the-badge&logo=cplusplus&logoColor=4C8BF5"/>
-  <img src="https://img.shields.io/badge/C-F7F9FC?style=for-the-badge&logo=c&logoColor=4FE3C1"/>
-  <img src="https://img.shields.io/badge/Python-F7F9FC?style=for-the-badge&logo=python&logoColor=A680FF"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7F9FC?style=for-the-badge&logo=javascript&logoColor=4C8BF5"/>
-  <img src="https://img.shields.io/badge/TypeScript-F7F9FC?style=for-the-badge&logo=typescript&logoColor=4FE3C1"/>
-</div>
-
-### Tools & Platforms
-<div>
-  <img src="https://img.shields.io/badge/Git-F7F9FC?style=for-the-badge&logo=git&logoColor=A680FF"/>
-  <img src="https://img.shields.io/badge/Linux-F7F9FC?style=for-the-badge&logo=linux&logoColor=4FE3C1"/>
-  <img src="https://img.shields.io/badge/VSCode-F7F9FC?style=for-the-badge&logo=visualstudiocode&logoColor=4C8BF5"/>
-  <img src="https://img.shields.io/badge/Colab-F7F9FC?style=for-the-badge&logo=googlecolab&logoColor=A680FF"/>
-</div>
-
----
-
-## 🚀 About Me
-- JBNU Computer Science & AI  
-- Robotics & LLM Enthusiast  
-- Solving problems & building what I imagine  
 
 </div>
