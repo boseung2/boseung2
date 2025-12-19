@@ -1,6 +1,26 @@
 <div align="center">
 
-**BoSeung Jung**
+# 👋 Hi, I'm **BoSeung Jung**
+
+<!-- Name Badge -->
+<img src="https://img.shields.io/badge/BoSeung-Developer-4C8BF5?style=for-the-badge&labelColor=F7F9FC&logoColor=4FE3C1"/>
+
+<!-- Links -->
+<p>
+<a href="https://github.com/boseung2">
+  <img src="https://img.shields.io/badge/GitHub-boseung2-4C8BF5?style=for-the-badge&logo=github&logoColor=4FE3C1&labelColor=E8ECF3"/>
+</a>
+<a href="https://www.acmicpc.net/user/jungbs3726">
+  <img src="https://img.shields.io/badge/BOJ-jungbs3726-4FE3C1?style=for-the-badge&labelColor=E8ECF3&logoColor=A680FF"/>
+</a>
+<a href="https://solved.ac/profile/jungbs3726">
+  <img src="https://img.shields.io/badge/Solved.ac-jungbs3726-A680FF?style=for-the-badge&labelColor=E8ECF3&logoColor=4FE3C1"/>
+</a>
+</p>
+
+---
+
+## 🙋‍♂️ About Me
 
 - JBNU Computer Science & AI  
 - Robotics & LLM Enthusiast  
