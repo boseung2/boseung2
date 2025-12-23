@@ -1,6 +1,6 @@
-# BoSeung Jung
+# Boseung Jung
 
-**Undergraduate Student | Computer Science & AI, JBNU**
+**Undergraduate Student | Computer Science & Artificial Intelligence, JBNU**
 
 ---
 
