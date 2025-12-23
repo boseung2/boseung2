@@ -2,16 +2,12 @@
 
 **Undergraduate Student | Computer Science & Artificial Intelligence, JBNU**
 
----
-
 ## Interest
 
 - Cloud Computing and Distributed Systems  
 - AI Systems and ML Infrastructure  
 - AI Automation and AI Agents  
 - Large Language Models (LLMs)  
-
----
 
 ## Links
 
@@ -20,8 +16,6 @@
 - **GitHub**: https://github.com/boseung2  
 - **BOJ**: https://www.acmicpc.net/user/jungbs3726  
 - **Solved.ac**: https://solved.ac/profile/jungbs3726  
-
----
 
 ## Algorithm Profile
 
@@ -33,8 +27,6 @@
     <img src="http://mazandi.herokuapp.com/api?handle=jungbs3726&theme=warm" width="410"/>
   </a>
 </p>
-
----
 
 ## Tech Stack
 
@@ -91,5 +83,3 @@
   <img src="https://img.shields.io/badge/Figma-F7F9FC?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/Notion-F7F9FC?style=for-the-badge&logo=notion&logoColor=000000"/>
 </p>
-
----
