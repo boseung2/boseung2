@@ -13,9 +13,11 @@
 
 - **Email**: jungbs3726@naver.com  
 - **CV**: https://boseung2.github.io/cv/  
-- **GitHub**: https://github.com/boseung2  
+- **GitHub**: https://github.com/boseung2
+-	**LinkedIn**: https://www.linkedin.com/in/bsjung/
 - **BOJ**: https://www.acmicpc.net/user/jungbs3726  
-- **Solved.ac**: https://solved.ac/profile/jungbs3726  
+-	**Kaggle:** https://www.kaggle.com/boseungjung
+-	**Hugging Face**: https://huggingface.co/boseung2
 
 ## Algorithm Profile
 
