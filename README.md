@@ -11,7 +11,7 @@
 
 ## Links
 
-- **Email**: jungbs3726@naver.com  
+- **Email**: jungbs3726@gmail.com  
 - **CV**: https://boseung2.github.io/cv/  
 - **GitHub**: https://github.com/boseung2
 -	**LinkedIn**: https://www.linkedin.com/in/bsjung/
