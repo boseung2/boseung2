@@ -4,10 +4,10 @@
 
 ## Interest
 
-- Cloud Computing and Distributed Systems  
-- AI Systems and ML Infrastructure  
-- AI Automation and AI Agents  
-- Large Language Models (LLMs)  
+- Cloud computing and machine learning systems
+- Large language model inference and serving optimization
+- Resource scheduling and allocation in virtualized and containerized systems
+- Performance measurement and observability of distributed systems
 
 ## Links
 
